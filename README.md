@@ -4,7 +4,7 @@ Hi! The purpose of this post is to be a reference for security studies and cases
 
 
 # Links
-You can export the current links.
+My list of reference links
 
 
 # Vídeos
